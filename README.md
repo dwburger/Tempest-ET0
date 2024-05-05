@@ -1,6 +1,6 @@
 # Tempest-ET0
 
-This Python script calculates ET0 (Reference ET) using weather data from a Tempest weather station.  Data from the Tempest includes:
+This Python script calculates ET0 (Reference ET) using weather data from a Tempest weather station.  Data from the Tempest including:
 
 1. Air Temperature (air_temp)
 2. Wind Speed (wind_speed)
